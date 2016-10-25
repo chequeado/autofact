@@ -1,4 +1,4 @@
-# autofact
+# Automating fact checking
 Automating fact checking exercise from Chequeado's Mozilla Fest 2016 presentation
 
 This repository container an exercise on automated fact checking, originally created for Mozilla Fest 2016 (https://app.mozillafestival.org/#_session-813).

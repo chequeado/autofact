@@ -12,3 +12,8 @@ The file '.py' contains the exercise code, running this code from the command li
 The goal in this exercise is to use basic NLP techniques, in order to find patterns about what likely makes a sentence "fact checkable" and what doesn't.
 
 You will have to tweak and create custom rules awarding or penalizing sentences.
+
+
+***Resources***
+
+The PoS tagger uses the tags from the Penn Treebank Project. This is the list : https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html

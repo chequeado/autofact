@@ -28,6 +28,7 @@ You will have to tweak and create custom rules awarding or penalizing sentences 
 
 Something like this:
 
+(from the command line)
 `python example.py`
 
 1. True \- 80 points
@@ -37,6 +38,11 @@ Something like this:
 5. True \- 55 points
 6. True \- 35 points
 7. False \- 35 points
+
+Then you can run the following command and check your results against a new dataset to see how well you did:
+
+(from the command line)
+`python example.py evaluate`
 
 
 ## Resources

@@ -10,9 +10,13 @@ The file 'example.py' contains the exercise code, running this code from the com
 You can explore the data dictionary running something like this in a Python console:
 
 `from example.py import load_data`
+
 `data = load_data()`
+
 `data.keys()`
+
 `data['ner_diff_count']`
+
 
 ## Goal
 

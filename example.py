@@ -29,7 +29,7 @@ def run_test(fname):
 
         #awards
         if 'PERCENT' in sent_ner:
-            points += 60
+            points += 10
 
         if 'than' in sent_words:
             points += 20

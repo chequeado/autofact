@@ -1,7 +1,7 @@
-# Automating fact checking
-### Automating fact checking exercise from Chequeado's Mozilla Fest 2016 presentation
+# Automated fact checking
+### Automated fact checking exercise from Chequeado's Mozilla Fest 2016 presentation
 
-This repository container an exercise on automated fact checking, originally created for Mozilla Fest 2016 (https://app.mozillafestival.org/#_session-813).
+This repository contains an exercise on automated fact checking, originally created for Mozilla Fest 2016 (https://app.mozillafestival.org/#_session-813).
 
 The 'data.json' file contains already processed sentences from several USA 2016 presidential debates extracted from Politifact Claimbuster site (http://idir-server2.uta.edu/claimbuster/debates). The data was processed using Stanford CoreNLP server (http://stanfordnlp.github.io/CoreNLP/). I didn't include the processing code for the sake of simplicity, if you'd like to see that let me know.
 
